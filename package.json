@@ -2,7 +2,7 @@
   "name": "@diananerd/lppjs",
   "version": "1.0.0",
   "description": "Lenguaje de Programación Platzi",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/nerddiana/lppjs/issues"
   },
-  "homepage": "https://github.com/nerddiana/lppjs#readme"
+  "homepage": "https://github.com/nerddiana/lppjs#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
