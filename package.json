@@ -1,0 +1,29 @@
+{
+  "name": "@diananerd/lppjs",
+  "version": "1.0.0",
+  "description": "Lenguaje de Programación Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerddiana/lppjs.git"
+  },
+  "keywords": [
+    "programming",
+    "language",
+    "platzi",
+    "code",
+    "script",
+    "interpreter",
+    "javascript",
+    "dsl"
+  ],
+  "author": "Diana Martínez <diananerdoficial@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nerddiana/lppjs/issues"
+  },
+  "homepage": "https://github.com/nerddiana/lppjs#readme"
+}
